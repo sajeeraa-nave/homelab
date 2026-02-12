@@ -11,4 +11,4 @@ This lab includes:
 - Permissions
 - Troubleshooting
 
-Documentation, configurations, and screenshots will be added as the lab progresses.
+Configuration steps, observations, troubleshooting, and screenshots will be documented here.
