@@ -77,7 +77,7 @@ Every problem I hit is logged in [`/troubleshooting-journal/`](./troubleshooting
 
 | | Lab | Status |
 |---|---|---|
-| ✅ | Lab 0 — Environment setup | Complete |
+| 🔧 | Lab 0 — Environment setup | In progress |
 | ⬜ | Lab 1 — Active Directory | Not started |
 | ⬜ | Lab 2 — Security Hardening | Not started |
 | ⬜ | Lab 3 — SIEM + Detection | Not started |
