@@ -10,7 +10,7 @@ Every lab is broken intentionally, debugged systematically, and documented thoro
 
 - Building and managing an enterprise-style domain environment
 - Detecting and responding to simulated attacks
-- Analzing logs across Windows and Linux systems
+- Analyzing logs across Windows and Linux systems
 - Automating monitoring and system tasks
 
   
