@@ -1,11 +1,19 @@
 # Home Lab — Enterprise Systems & Cybersecurity
 
-A hands-on enterprise home lab built to develop and demonstrate real, job-ready skills in identity management, security monitoring, detection and response, networking, Linux administration, and automation. 
+Portfolio project focused on enterprise built to develop and demonstrate skills in identity management, security monitoring, detection and response, networking, Linux administration, and automation. 
 
 Every lab is broken intentionally, debugged systematically, and documented thoroughly.
 
-> Built by a first-year Computer Systems Technician (CSNC) student at Seneca Polytechnic as a portfolio project. Started April 2026.
+---
 
+## What This Project Demonstrates:
+
+- Building and managing an enterprise-style domain environment
+- Detecting and responding to simulated attacks
+- Analzing logs across Windows and Linux systems
+- Automating monitoring and system tasks
+
+  
 ---
 
 ## Environment
@@ -73,12 +81,17 @@ Build a working Windows domain from scratch. Create the domain controller (`DC01
 
 **Skills:** AD DS, DNS, DHCP, GPO, NTFS permissions, account management, domain troubleshooting
 
+#### Outcome:
+
+
 ---
 
 ### Lab 2 — Security Hardening
 Enable advanced audit policy on the domain. Simulate authentication events (failed logins, account lockouts, unauthorized folder access). Observe Event IDs 4625 and 4740 in Event Viewer. Apply baseline hardening: disable Guest, restrict RDP, enforce password policy.
 
 **Skills:** Windows audit policy, Event Viewer, security baselines, authentication event analysis
+
+#### Outcome:
 
 ---
 
@@ -87,12 +100,16 @@ Install Wazuh SIEM. Forward Windows logs. Simulate brute-force login attempts an
 
 **Skills:** Wazuh, log forwarding, alert correlation, SOC workflow, incident documentation
 
+#### Outcome:
+
 ---
 
 ### Lab 4 — Network Analysis + Linux + Automation
 Capture and analyze real domain traffic with Wireshark (DNS queries, TCP handshakes, SMB file share traffic, authentication flows). Build an Ubuntu Server — harden it, enable logging, write automation scripts for failed login detection, log backup, and system health checks.
 
 **Skills:** Wireshark, packet analysis, Ubuntu Server, ufw, systemctl, bash scripting
+
+#### Outcome:
 
 ---
 
@@ -134,13 +151,14 @@ Automation scripts in [`/scripts/`](./scripts/):
 
 | Lab | Focus | Status |
 |---|---|---|
-| Lab 0 — Setup | Environment, VMs, network design | ✅ Complete |
-| Lab 1 — Active Directory | Domain controller, OUs, GPOs, break/fix | 🔧 In progress |
-| Lab 2 — Security Hardening | Audit policy, lockdown, event analysis | ⬜ Queued |
-| Lab 3 — SIEM + Detection | Wazuh, attack simulation, incident reports | ⬜ Queued |
-| Lab 4 — Network + Linux | Wireshark, Ubuntu Server, automation | ⬜ Queued |
+| Lab 0 — Setup | Environment, VMs, network design | In progress |
+| Lab 1 — Active Directory | Domain controller, OUs, GPOs, break/fix | Queued |
+| Lab 2 — Security Hardening | Audit policy, lockdown, event analysis | Queued |
+| Lab 3 — SIEM + Detection | Wazuh, attack simulation, incident reports | Queued |
+| Lab 4 — Network + Linux | Wireshark, Ubuntu Server, automation | Queued |
 
-Target: first complete version pushed by end of Summer 2026. Mature portfolio version ready November 2026.
+Target: first complete version pushed by end of **Summer 2026**. 
+Mature portfolio version ready **November 2026**.
 
 ---
 
