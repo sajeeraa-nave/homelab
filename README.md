@@ -140,7 +140,7 @@ Automation scripts in [`/scripts/`](./scripts/):
 | Lab 3 — SIEM + Detection | Wazuh, attack simulation, incident reports | ⬜ Queued |
 | Lab 4 — Network + Linux | Wireshark, Ubuntu Server, automation | ⬜ Queued |
 
-Target: first complete version pushed by end of Summer 2026. Mature portfolio version ready November 2026 for co-op applications.
+Target: first complete version pushed by end of Summer 2026. Mature portfolio version ready November 2026.
 
 ---
 
