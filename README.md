@@ -1,8 +1,10 @@
 # Home Lab — Enterprise Systems & Cybersecurity
 
-A hands-on enterprise home lab built to develop and demonstrate real, job-ready skills in identity management, security monitoring, detection and response, networking, Linux administration, and automation. Every lab is broken intentionally, debugged systematically, and documented thoroughly.
+A hands-on enterprise home lab built to develop and demonstrate real, job-ready skills in identity management, security monitoring, detection and response, networking, Linux administration, and automation. 
 
-> Built by a first-year Computer Systems & Networking (CSNC) student at Seneca Polytechnic as a co-op portfolio project. Started April 2026.
+Every lab is broken intentionally, debugged systematically, and documented thoroughly.
+
+> Built by a first-year Computer Systems Technician (CSNC) student at Seneca Polytechnic as a portfolio project. Started April 2026.
 
 ---
 
@@ -11,8 +13,8 @@ A hands-on enterprise home lab built to develop and demonstrate real, job-ready 
 | Component | Spec |
 |---|---|
 | **Host machine** | ASUS ROG Zephyrus G16 — Core Ultra 9 185H, 32 GB RAM, RTX 4060, 1 TB NVMe |
-| **Hypervisor** | VMware Workstation Pro 17 (free personal use) |
-| **Lab storage** | SanDisk Extreme Portable SSD 1 TB (USB 3.2 Gen 2) — all VMs and ISOs live here |
+| **Hypervisor** | VMware Workstation Pro 17 |
+| **Lab storage** | SanDisk Extreme Portable SSD 1 TB (USB 3.2 Gen 2) |
 | **Host OS** | Windows 11 |
 
 ### Virtual Machines
