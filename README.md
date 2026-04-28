@@ -13,7 +13,10 @@ Every lab is broken intentionally, debugged systematically, and documented thoro
 - Analyzing logs across Windows and Linux systems
 - Automating monitoring and system tasks
 
-  
+### Skills Demonstrated
+
+Active Directory · DNS · Group Policy · Windows event logging · Security hardening · SIEM (Wazuh) · Attack simulation · Incident response · Wireshark · Packet analysis · Ubuntu Server · Bash scripting · PowerShell · Network design · Virtualization (VMware) · Technical documentation
+
 ---
 
 ## Environment
@@ -159,12 +162,6 @@ Automation scripts in [`/scripts/`](./scripts/):
 
 Target: first complete version pushed by end of **Summer 2026**. 
 Mature portfolio version ready **November 2026**.
-
----
-
-## Skills Demonstrated
-
-Active Directory · DNS · Group Policy · Windows event logging · Security hardening · SIEM (Wazuh) · Attack simulation · Incident response · Wireshark · Packet analysis · Ubuntu Server · Bash scripting · PowerShell · Network design · Virtualization (VMware) · Technical documentation
 
 ---
 
